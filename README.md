@@ -1,6 +1,6 @@
 ### Hi there <img height="30em" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-<div align="center"  >
+<div align="center">
 <img  width="70%" src="https://cdn.dribbble.com/users/1454037/screenshots/14900099/media/c846e8a6a2a6593301c396a684412079.gif" />
 </div>
 <div >
