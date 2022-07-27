@@ -1,7 +1,7 @@
 ### Hi there <img height="30em" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <div align="center">
-<img  width="70%" src="https://cdn.dribbble.com/users/1454037/screenshots/14900099/media/c846e8a6a2a6593301c396a684412079.gif" />
+<img  width="60%" src="https://cdn.dribbble.com/users/322079/screenshots/5054690/media/a59128f13b5e99544a25508531fd1cc7.gif" />
 </div>
 <div >
   
