@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://github.com/Jotarojoseph">
   <img width="48%" "height="130em" src="https://github-readme-stats.vercel.app/api?username=Jotarojoseph&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img width="48%"  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotarojoseph&layout=compact&langs_count=7&theme=synthwave"/>
+  <img width="50%"  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotarojoseph&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <div> 
