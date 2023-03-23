@@ -34,16 +34,13 @@ Competencias técnicas:
  ● Banco de dados: MongoDB, MySQL;
  ● Métologias ágeis: Scrum, Kanban;
  ● Versionamento: Git.
-
-<div style="display:flex;flex-direction:column">
-Competências Comportamentais: 
-                                               
+ 
+Competências Comportamentais:                                               
 ● Trabalho em equipe                                        
-● Liderança 
-                                               
+● Liderança              
 ● Automotivação 
 ● Comunicação efetiva 
-● Capacidade de negociação -
+● Capacidade de negociação
 ● Criatividade 
 ● Adaptabilidade 
 ● Busca por conhecimentos 
@@ -52,4 +49,3 @@ Competências Comportamentais:
 ● Equilíbrio emocional 
 ● Proatividade 
 ● Empatia.
-</div>
