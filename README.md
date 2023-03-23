@@ -28,15 +28,24 @@
 </div>
 
 
-- 🌱 I'm a website and landingpage developer (HTML, CSS, SCSS, JavaScript).
-- I have solid Knowledge in HTML, CSS, SCSS, BEM.
-- I have solid knowledge of Javascript ES6+, including DOM manipulation.
-- I have solid knowledge in TypeScript.
-- I have knowledge in NodeJs, MySQL.
-- I have Knowledge in front-end frameworks and libraries (Angular, material, bootstrap, ng-prime).
-- I have knowledge in state management, props, hooks and componentization in Angular.
-- I have Integrations with API's.
-- I have Knowledge in Git, GitHub, AzureDevops.
-- I have Knowledge in Figma (prototyping).
-- I have Experience with agile methodologies.
-- I have Experience with agile methodologies.
+Competencias técnicas:
+ ● Front-end: HTML, CSS, SCSS, JavaScript, TypeScript,React, ReactJs, Angular,Ionic, VueJs, Bootstrap;
+ ● Back-end: NodeJs, Express, API RestFull;
+ ● Banco de dados: MongoDB, MySQL;
+ ● Métologias ágeis: Scrum, Kanban;
+ ● Versionamento: Git.
+
+Competências Comportamentais: 
+● Trabalho em equipe 
+● Liderança 
+● Automotivação 
+● Comunicação efetiva 
+● Capacidade de negociação -
+● Criatividade 
+● Adaptabilidade 
+● Busca por conhecimentos 
+● Bom humor 
+● Relacionamento interpessoal 
+● Equilíbrio emocional 
+● Proatividade 
+● Empatia.
