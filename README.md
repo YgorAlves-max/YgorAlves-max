@@ -37,8 +37,11 @@ Competencias técnicas:
 
 <div style="display:flex;flex-direction:column">
 Competências Comportamentais: 
+                                               
 ● Trabalho em equipe
+                                               
 ● Liderança 
+                                               
 ● Automotivação 
 ● Comunicação efetiva 
 ● Capacidade de negociação -
