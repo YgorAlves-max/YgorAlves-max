@@ -28,8 +28,7 @@
 </div>
 
 
-## Competencias técnicas:
-
+## Competencias técnicas:<br>
  ● Front-end: HTML, CSS, SCSS, JavaScript, TypeScript,React, ReactJs, Angular,Ionic, VueJs, Bootstrap;
  
  ● Back-end: NodeJs, Express, API RestFull;
