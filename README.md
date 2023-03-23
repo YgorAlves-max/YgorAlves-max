@@ -35,34 +35,3 @@
  
  ● Banco de dados: MongoDB, MySQL;
  
- ● Métologias ágeis: Scrum, Kanban;
- 
- ● Versionamento: Git.
- 
-## Competências Comportamentais:     
-
-● Trabalho em equipe          
-
-● Liderança              
-
-● Automotivação 
-
-● Comunicação efetiva 
-
-● Capacidade de negociação
-
-● Criatividade 
-
-● Adaptabilidade 
-
-● Busca por conhecimentos 
-
-● Bom humor 
-
-● Relacionamento interpessoal 
-
-● Equilíbrio emocional 
-
-● Proatividade 
-
-● Empatia.
