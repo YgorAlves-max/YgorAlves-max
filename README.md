@@ -28,7 +28,7 @@
 </div>
 
 
-#Competencias técnicas:
+## Competencias técnicas:
 
  ● Front-end: HTML, CSS, SCSS, JavaScript, TypeScript,React, ReactJs, Angular,Ionic, VueJs, Bootstrap;
  
@@ -40,7 +40,7 @@
  
  ● Versionamento: Git.
  
-#Competências Comportamentais:     
+## Competências Comportamentais:     
 
 ● Trabalho em equipe          
 
