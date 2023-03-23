@@ -29,6 +29,7 @@
 
 
 Competencias técnicas:
+
  ● Front-end: HTML, CSS, SCSS, JavaScript, TypeScript,React, ReactJs, Angular,Ionic, VueJs, Bootstrap;
  
  ● Back-end: NodeJs, Express, API RestFull;
@@ -39,17 +40,30 @@ Competencias técnicas:
  
  ● Versionamento: Git.
  
-Competências Comportamentais:                                               
-● Trabalho em equipe                                        
+Competências Comportamentais:     
+
+● Trabalho em equipe          
+
 ● Liderança              
+
 ● Automotivação 
+
 ● Comunicação efetiva 
+
 ● Capacidade de negociação
+
 ● Criatividade 
+
 ● Adaptabilidade 
+
 ● Busca por conhecimentos 
+
 ● Bom humor 
+
 ● Relacionamento interpessoal 
+
 ● Equilíbrio emocional 
+
 ● Proatividade 
+
 ● Empatia.
