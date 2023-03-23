@@ -35,7 +35,7 @@ Competencias técnicas:
  ● Métologias ágeis: Scrum, Kanban;
  ● Versionamento: Git.
 
-<div style="display:flex">
+<div style="display:flex;flex-direction:column">
 Competências Comportamentais: 
 ● Trabalho em equipe
 ● Liderança 
