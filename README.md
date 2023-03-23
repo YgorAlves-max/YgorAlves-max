@@ -38,8 +38,7 @@ Competencias técnicas:
 <div style="display:flex;flex-direction:column">
 Competências Comportamentais: 
                                                
-● Trabalho em equipe
-                                               
+● Trabalho em equipe                                        
 ● Liderança 
                                                
 ● Automotivação 
