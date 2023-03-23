@@ -30,9 +30,13 @@
 
 Competencias técnicas:
  ● Front-end: HTML, CSS, SCSS, JavaScript, TypeScript,React, ReactJs, Angular,Ionic, VueJs, Bootstrap;
+ 
  ● Back-end: NodeJs, Express, API RestFull;
+ 
  ● Banco de dados: MongoDB, MySQL;
+ 
  ● Métologias ágeis: Scrum, Kanban;
+ 
  ● Versionamento: Git.
  
 Competências Comportamentais:                                               
